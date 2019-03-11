@@ -88,7 +88,7 @@ fabric.properties
 .idea/compiler.xml
 .idea/inspectionProfiles/
 .idea/modules.xml
-.idea/serviceMonitor.iml
+.idea/server.iml
 .idea/uiDesigner.xml
 .idea/workspace.xml
 build/
